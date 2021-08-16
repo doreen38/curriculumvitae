@@ -1,0 +1,41 @@
+.box{
+   width: 100%; 
+   max-width:500px ;
+   /*margin:auto;*/
+   padding:16px ;
+   border: 2px solid;
+   margin: bottom 1rem; 
+}
+#h1{
+ font-family: 'Courier New', Courier, monospace;
+ text-align: center;font-size: larger;
+}
+  #first-paragraph{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: Arial;
+      margin: top 0; 
+  }
+  .c2 h2{
+      font-family: sans-serif;
+      text-align: center;text-transform:capitalize;
+  }
+  .c3 h2{
+      font-family: fantasy;
+      letter-spacing: 20px;
+      font-weight: bolder;
+      margin-left:10% ;
+      margin-right:10% ;
+  }
+  .c4 h1{
+  font-family:fantasy;
+      letter-spacing:2px;
+      font-weight: bolder;
+    margin-left:10% ;
+    margin-right:10% ;
+
+    
+  }
+.c5 h1{
+border: 0px;
+text-align: justify;
+  }
